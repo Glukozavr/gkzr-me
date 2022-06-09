@@ -24,8 +24,8 @@ module.exports = {
         name: `GKZR.me`,
         location: `Ukraine`,
         socialMedia: [
-            { title: `Twitter`, href: `https://twitter.com/glukozavr` },
-            { title: `Homepage`, href: `./` }
+            { title: `./twitter.png`, href: `https://twitter.com/glukozavr` },
+            { title: `./home.png`, href: `./` }
         ]
       },
     },
@@ -40,7 +40,7 @@ module.exports = {
         background_color: `#fff`,
         // This will impact how browsers show your PWA/website
         // https://css-tricks.com/meta-theme-color-and-trickery/
-        // theme_color: `#3182ce`,
+        theme_color: `#212d94`,
         display: `standalone`,
         icons: [
           {
