@@ -25,7 +25,6 @@ module.exports = {
         location: `Ukraine`,
         socialMedia: [
             { title: `./home.png`, href: `./` },
-            { title: `./contact.png`, href: `./contact` },
             { title: `./twitter.png`, href: `https://twitter.com/glukozavr` }
         ]
       },
