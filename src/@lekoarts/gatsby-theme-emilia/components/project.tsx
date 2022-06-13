@@ -64,8 +64,7 @@ type ProjectProps = {
 }
 
 const Project = ({ data: { project, images }, pageContext: { prev, next } }: ProjectProps) => {
-    const imageFade = useSpring({ config: config.slow, delay: 800, from: { opacity: 0 }, to: { opacity: 1 } })
-
+    // @ts-ignore
     return (
         <Layout>
             <SEO

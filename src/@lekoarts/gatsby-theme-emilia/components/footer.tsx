@@ -1,10 +1,12 @@
 /** @jsx jsx */
+import {mailchimpSubscribeHtml} from "./mailchimp";
 import { Box, jsx, Container, Flex, Link, useColorMode } from "theme-ui"
 import useEmiliaConfig from "@lekoarts/gatsby-theme-emilia/src/hooks/use-emilia-config"
 import SocialMediaList from "@lekoarts/gatsby-theme-emilia/src/components/social-media-list"
 import ColorModeToggle from "@lekoarts/gatsby-theme-emilia/src/components/colormode-toggle"
 // @ts-ignore
 import AboutMeMDX from "@lekoarts/gatsby-theme-emilia/src/texts/about-me"
+import * as React from "react";
 
 const Footer = () => {
     const { showThemeAuthor } = useEmiliaConfig()
@@ -35,6 +37,8 @@ const Footer = () => {
                         }}
                     >
                         <AboutMeMDX />
+
+                        <div  dangerouslySetInnerHTML={{__html: mailchimpSubscribeHtml}} />
                     </div>
                     <Flex
                         sx={{

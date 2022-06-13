@@ -24,8 +24,9 @@ module.exports = {
         name: `GKZR.me`,
         location: `Ukraine`,
         socialMedia: [
-            { title: `./twitter.png`, href: `https://twitter.com/glukozavr` },
-            { title: `./home.png`, href: `./` }
+            { title: `./home.png`, href: `./` },
+            { title: `./contact.png`, href: `./contact` },
+            { title: `./twitter.png`, href: `https://twitter.com/glukozavr` }
         ]
       },
     },
