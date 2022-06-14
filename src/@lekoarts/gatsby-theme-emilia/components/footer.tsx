@@ -53,6 +53,7 @@ const Footer = () => {
                                 <SocialMediaList />
                             </div>
                             <div sx={{ color: `textMuted` }}>Курочкін Віктор Михайлович <br/>
+                                contact@gkzr.me <br/>
                                 Copyright &copy; {new Date().getFullYear()}. All rights reserved.</div>
                         </div>
                     </Flex>
