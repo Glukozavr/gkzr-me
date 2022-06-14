@@ -1,6 +1,6 @@
 import * as React from "react"
 import { Container, Themed } from "theme-ui"
-import Header from "@lekoarts/gatsby-theme-emilia/src/components/header"
+import Header from "../@lekoarts/gatsby-theme-emilia/components/header";
 import Layout from "@lekoarts/gatsby-theme-emilia/src/components/layout"
 import Seo from "@lekoarts/gatsby-theme-emilia/src/components/seo"
 
