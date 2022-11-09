@@ -6,7 +6,7 @@ import Seo from "@lekoarts/gatsby-theme-emilia/src/components/seo"
 
 const PrivacyPolicy = () => (
     <Layout>
-        <Seo title="Territorial Defense: The Game Privacy Policy" />
+        <Seo title="Chemstack Puzzle Privacy Policy" />
         <Header />
         <Container>
             <Themed.p>
@@ -19,7 +19,7 @@ const PrivacyPolicy = () => (
                 <br/>This Privacy Policy explains how your personal information is collected, used, and disclosed by GKZR.me.
                 <br/>
 
-                This Privacy Policy applies to our website, and its associated subdomains (collectively, our “Service”) alongside our application, Territorial Defense: The Game. By accessing or using our Service, you signify that you have read, understood, and agree to our collection, storage, use, and disclosure of your personal information as described in this Privacy Policy and our Terms of Service.
+                This Privacy Policy applies to our website, and its associated subdomains (collectively, our “Service”) alongside our application, Chemstack Puzzle. By accessing or using our Service, you signify that you have read, understood, and agree to our collection, storage, use, and disclosure of your personal information as described in this Privacy Policy and our Terms of Service.
                 <br/>
 
                 <h2>Meanings</h2>
@@ -68,7 +68,7 @@ const PrivacyPolicy = () => (
                 By submitting your email address on this app, you agree to receive emails from us. You can cancel your participation in any of these email lists at any time by clicking on the opt-out link or other unsubscribe option that is included in the respective email. We only send emails to people who have authorized us to contact them, either directly, or through a third party. We do not send unsolicited commercial emails, because we hate spam as much as you do. By submitting your email address, you also agree to allow us to use your email address for customer audience targeting on sites like Facebook, where we display custom advertising to specific people who have opted-in to receive communications from us. Email addresses submitted only through the order processing page will be used for the sole purpose of sending you information and updates pertaining to your order. If, however, you have provided the same email to us through another method, we may use it for any of the purposes stated in this Policy. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
                 <br/>
                 <h2>How Long Do We Keep Your Information?</h2>
-                We keep your information only so long as we need it to provide Territorial Defense: The Game to you and fulfill the purposes described in this policy. This is also the case for anyone that we share your information with and who carries out services on our behalf. When we no longer need to use your information and there is no need for us to keep it to comply with our legal or regulatory obligations, we’ll either remove it from our systems or depersonalize it so that we can't identify you.
+                We keep your information only so long as we need it to provide Chemstack Puzzle to you and fulfill the purposes described in this policy. This is also the case for anyone that we share your information with and who carries out services on our behalf. When we no longer need to use your information and there is no need for us to keep it to comply with our legal or regulatory obligations, we’ll either remove it from our systems or depersonalize it so that we can't identify you.
                 <br/>
                 <h2>How Do We Protect Your Information?</h2>
                 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. After a transaction, your private information (credit cards, social security numbers, financials, etc.) is never kept on file. We cannot, however, ensure or warrant the absolute security of any information you transmit to GKZR.me or guarantee that your information on the Service may not be accessed, disclosed, altered, or destroyed by a breach of any of our physical, technical, or managerial safeguards.
@@ -85,7 +85,7 @@ const PrivacyPolicy = () => (
                 We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
                 <br/>
                 <h2>Cookies</h2>
-                Territorial Defense: The Game uses "Cookies" to identify the areas of our app that you have visited. A Cookie is a small piece of data stored on your computer or mobile device by your web browser. We use Cookies to personalize the Content that you see on our app. Most web browsers can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to access functionality on our app correctly or at all. We never place Personally Identifiable Information in Cookies.
+                Chemstack Puzzle uses "Cookies" to identify the areas of our app that you have visited. A Cookie is a small piece of data stored on your computer or mobile device by your web browser. We use Cookies to personalize the Content that you see on our app. Most web browsers can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to access functionality on our app correctly or at all. We never place Personally Identifiable Information in Cookies.
                 <br/>
                 <h2>Remarketing Services</h2>
                 We use remarketing services. What Is Remarketing? In digital marketing, remarketing (or retargeting) is the practice of serving ads across the internet to people who have already visited your website. It allows your company to seem like they're “following” people around the internet by serving ads on the websites and platforms they use most.
