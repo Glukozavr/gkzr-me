@@ -11,7 +11,7 @@ module.exports = {
     siteTitleAlt: `GKZR.me - Curious Games`,
     siteHeadline: `GKZR.me - Indie Game Development`,
     siteUrl: `https://gkzr.me`,
-    siteDescription: `GKZR is an indie game developer that is not leading anything but tries to create curious games focusing on mobile devices.`,
+    siteDescription: `GKZR is an indie game developer that is not leading anything but tries to create curious games.`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
     author: `@Glukozavr`,
@@ -25,7 +25,8 @@ module.exports = {
         location: `Ukraine`,
         socialMedia: [
             { title: `./home.png`, href: `./` },
-            { title: `./twitter.png`, href: `https://twitter.com/glukozavr` }
+            { title: `./twitter.png`, href: `https://twitter.com/glukozavr` },
+            { title: `./itch.png`, href: `https://glukozavr.itch.io/` }
         ]
       },
     },
@@ -35,7 +36,7 @@ module.exports = {
       options: {
         name: `GKZR.me - Curious Games`,
         short_name: `GKZR.me`,
-        description: `GKZR is an indie game developer that is not leading anything but tries to create curious games focusing on mobile devices.`,
+        description: `GKZR is an indie game developer that is not leading anything but tries to create curious games.`,
         start_url: `/`,
         background_color: `#fff`,
         // This will impact how browsers show your PWA/website
